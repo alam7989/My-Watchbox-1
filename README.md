@@ -93,7 +93,7 @@ Next time your friends ask you for a movie suggestion, be prepared with My Watch
 
 ## Wireframes
 
-<img src="(https://github.com/alam7989/My-Watchbox/blob/main/My_Watchbox_Wireframe.jpeg)" width=600>
+![](https://github.com/alam7989/My-Watchbox/blob/main/My_Watchbox_Wireframe.jpeg)
 
 ### [BONUS] Digital Wireframes & Mockups
 
