@@ -50,7 +50,8 @@ Next time your friends ask you for a movie suggestion, be prepared with My Watch
 * user can create a new movie/show entry
     * write a note
     * add a rating
-* user can scroll through the list of previously-created movie/show entries
+* user can scroll through the list of previously-created movie/show entry previews
+* user can click an entry to view all of the entry details
 * movie/show entries are saved even when exitting and re-opening the app
 
 **Optional Nice-to-have Stories**
@@ -61,9 +62,12 @@ Next time your friends ask you for a movie suggestion, be prepared with My Watch
 ### 2. Screen Archetypes
 
 - [ ] List Feed 
-* user can scroll through the list of previously-created movie/show entries
+* user can scroll through the list of previously-created movie/show entry previews
 * movie/show entries are saved even when exitting and re-opening the app
-- [ ] Create
+* user can click an entry to view all of the entry details
+- [ ] Entry Details
+* view all of the entry details
+- [ ] New Entry
 * user can create a new movie/show entry
 - [ ] Where-to-watch Search
 * user can search for a movie/show and see where it is being shown nearby
@@ -82,8 +86,9 @@ Next time your friends ask you for a movie suggestion, be prepared with My Watch
 
 - [ ] List Feed
 * => Create
+* => Entry Details
 * ...
-- [ ] Create
+- [ ] New Entry
 * => List Feed
 
 ## Wireframes
