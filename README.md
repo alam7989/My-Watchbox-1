@@ -93,8 +93,7 @@ Next time your friends ask you for a movie suggestion, be prepared with My Watch
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="[YOUR_WIREFRAME_IMAGE_URL](https://github.com/alam7989/My-Watchbox/blob/main/My_Watchbox_Wireframe.jpeg)" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
