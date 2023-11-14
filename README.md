@@ -112,3 +112,39 @@ Next time your friends ask you for a movie suggestion, be prepared with My Watch
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+## Checklist
+### Sprint 1: Achieve Required/Must-have Functionalities
+- [ ] Create View Controller for the List Feed page
+- [ ] Create View Controller for the New Entry page
+- [ ] Implement the basic features of the List Feed page
+    - [ ] Some scrollable view (ex. table view) displaying a preview for each previously-created entry, where each entry preview displays:
+        - [ ]  Movie/Show title
+        - [ ]  User-given rating
+        - [ ]  (Preview of user's notes, if it does not look too cluttered)
+- [ ] Implement the New Entry page
+    - [ ] Take user input for:
+        - [ ] Movie/Show title
+        - [ ] User-given rating
+        - [ ] User's notes 
+- [ ] Implement navigation betweeen List Feed and New Entry pages
+    - [ ] From List Feed: tap "New" to flow to New Entry page
+    - [ ] From New Entry:
+        - [ ] tap "Cancel" to flow back to List Feed page
+        - [ ] tap "Done" to add entry information to local information store/database, and flow back to List Feed page
+- [ ] Create View Controller for Entry Details page
+- [ ] Populate Entry Details page
+    - [ ] Movie/Show title
+    - [ ] User-given rating
+    - [ ] User's Notes
+- [ ] Implement navigation between List Feed and Entry Details pages
+    - [ ] From List Feed: tap on an entry preview to flow to the Entry Details page (populated with the details of the selected entry)
+    - [ ] From Entry Details: tap on "back" to flow back to the List Feed page
+
+### Sprint 2: Achieve Stretch Functionalities
+- [ ] Create View Controller for Where-to-watch or Movie/Show search page
+- [ ] Implement Where-to-watch or Movie/Show search page
+    - [ ] Take in user input from a search bar
+    - [ ] Make calls to an API to get information about the user's query
+    - [ ] Populate page with returned information
+- [ ] Implement navigation between List Feed and Where-to-watch or Movie/Show search page
