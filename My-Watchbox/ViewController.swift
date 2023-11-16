@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
+    @IBOutlet weak var newEntryButton: UINavigationItem!
     
     override func viewDidLoad() {
         super.viewDidLoad()
